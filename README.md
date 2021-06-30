@@ -1,4 +1,4 @@
-# organic-soundlab
+# Organic Soundlab Codebase
 
 Soundlab controlled by your living surrounding
 
